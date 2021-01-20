@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/shivamjadhav2000.github.io.covidVizualizerandAnalysis/static/css/main.20802383.chunk.css",
+    "main.js": "/shivamjadhav2000.github.io.covidVizualizerandAnalysis/static/js/main.05f05993.chunk.js",
+    "main.js.map": "/shivamjadhav2000.github.io.covidVizualizerandAnalysis/static/js/main.05f05993.chunk.js.map",
+    "runtime-main.js": "/shivamjadhav2000.github.io.covidVizualizerandAnalysis/static/js/runtime-main.70bf0171.js",
+    "runtime-main.js.map": "/shivamjadhav2000.github.io.covidVizualizerandAnalysis/static/js/runtime-main.70bf0171.js.map",
+    "static/js/2.7e80ee00.chunk.js": "/shivamjadhav2000.github.io.covidVizualizerandAnalysis/static/js/2.7e80ee00.chunk.js",
+    "static/js/2.7e80ee00.chunk.js.map": "/shivamjadhav2000.github.io.covidVizualizerandAnalysis/static/js/2.7e80ee00.chunk.js.map",
+    "index.html": "/shivamjadhav2000.github.io.covidVizualizerandAnalysis/index.html",
+    "static/css/main.20802383.chunk.css.map": "/shivamjadhav2000.github.io.covidVizualizerandAnalysis/static/css/main.20802383.chunk.css.map",
+    "static/js/2.7e80ee00.chunk.js.LICENSE.txt": "/shivamjadhav2000.github.io.covidVizualizerandAnalysis/static/js/2.7e80ee00.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.70bf0171.js",
+    "static/js/2.7e80ee00.chunk.js",
+    "static/css/main.20802383.chunk.css",
+    "static/js/main.05f05993.chunk.js"
+  ]
+}
