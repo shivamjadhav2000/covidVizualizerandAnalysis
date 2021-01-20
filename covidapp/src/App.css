@@ -1,0 +1,47 @@
+
+.main{
+  margin:5% 2%;
+  padding: 2%;
+  text-align: center;
+}
+.main1{
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+.main2{
+  display:grid;
+  grid-template-columns: 50% 50%;
+  text-align: left;
+}
+p{
+  margin-left:12%;
+  font-size:x-large;
+  font-weight: 600;
+}
+.main3{
+  display:grid;
+  grid-template-columns:60% 40%;
+}
+table{
+  width:100%;
+}
+table, th, td {
+  border: 1px solid rgba(0, 0, 0, 0.438);
+}
+input{
+  width:250px;
+  height:55px;
+  text-decoration: none;
+  outline-style: none;
+  font-size: larger;
+  color:rgba(0, 0, 0, 0.952)
+}
+
+button{
+  width:200px;
+  height:55px;
+  background-color: rgba(9, 230, 28, 0.76);
+  border: none;
+  outline-style: none;
+}
