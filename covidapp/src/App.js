@@ -1,7 +1,7 @@
 import React from 'react';
 import Chart from './Chart.js'
 import './App.css';
-
+import Footer from './footer'
 
 class App extends React.Component {
   constructor(){
@@ -76,7 +76,7 @@ class App extends React.Component {
   render(){
     return (
       <div className="main">
-      <h1>Covid vizualizer</h1>
+      <p className="Header">Covid vizualizer</p>
           <div className="main1">
               <input type="text" name="country"  
               onChange={(e)=>{this.setState({country:e.target.value})}}  
@@ -112,7 +112,7 @@ class App extends React.Component {
                 </table>
               </div>
           </div>
-          
+          <Footer />
       </div>
     )
   }

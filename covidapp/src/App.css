@@ -45,3 +45,24 @@ button{
   border: none;
   outline-style: none;
 }
+.iconsContainer{
+  display:flex;
+  justify-content: center;
+  align-items: center;
+}
+.Foot{
+  border-radius: 5px;
+  margin: 5% 0%;
+  background-color: rgba(0, 0, 0, 0.274);
+}
+.Header{
+  border-left:5px solid red;
+  color:rgb(49, 219, 49);
+  font-size: 30px;
+  margin:0% 35%;
+  margin-bottom:5%;
+  width:300px;
+  height:45px;
+  font-weight: bold;
+
+}
